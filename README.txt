@@ -1,0 +1,1 @@
+Hi everyone, this is all about HNG internship projects and all. Hope to get better in Frontend Development
